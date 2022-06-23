@@ -59,33 +59,39 @@
     line-height: 29px;
     letter-spacing: 0px;
     text-align: center;
-    
+
 }
-.bold{
+
+.bold {
     font-size: 26px;
     font-weight: 700;
 }
+
 .feature-img {
     height: 50%;
     width: 50%;
     margin-bottom: 5%;
 }
-.col-sm-4:hover{
+
+.col-sm-4:hover {
     transform: scale(1.2);
     transition: 0.3s;
-     
+
 }
-.container{
+
+.container {
     margin-top: 5%;
     margin-bottom: 5%;
 }
-h3{
+
+h3 {
     font-size: 33px;
     font-weight: 500;
     line-height: 29px;
     letter-spacing: 0px;
 
 }
+
 .lead {
     font-size: 20px;
     font-weight: 500;
@@ -93,17 +99,19 @@ h3{
     letter-spacing: 0px;
     text-align: center;
 }
+
 .d-block {
-    
+
     height: auto;
     width: 90%;
     padding-left: 15%;
     padding-right: 55%;
     padding-top: 5%;
     padding-bottom: 5%;
-    
+
 }
-.d-block1{
+
+.d-block1 {
     height: auto;
     width: 90%;
     padding-left: 55%;
@@ -113,31 +121,39 @@ h3{
 
 }
 
-.carousel-item{
-    margin-left: 30px;
+.carousel-item {
+
     margin-top: 10%;
     height: auto;
     width: 100%;
 
     /* background: linear-gradient(#e66465, #9198e5); */
 
-   
-    
+
+
+
+
+
 }
+
 .carousel {
-    margin-right: 30px;}
-
-.carousel-caption{
-    text-align: right;
-    
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
-.carousel-control-next-icon{
-   
+.carousel-caption {
+    text-align: right;
+
+}
+
+.carousel-control-next-icon {
     color: #060808;
     background-color: #060808;
 }
-.carousel-control-prev-icon{
+
+.carousel-control-prev-icon {
     color: #060808;
     background-color: #060808;
 }
@@ -157,34 +173,35 @@ font-weight: 500;
 line-height: 29px;
 letter-spacing: 0px;
 text-align: center;--> */
-.team{
+.team {
 
     background: #fdfcb34e;
 
-    
+
 
 }
 
-.cont{
+.cont {
 
-  background: #d85050;
+    background: #d85050;
 
 }
-.our-team{
+
+.our-team {
 
     border-radius: 15px;
 
     text-align: center;
 
-    padding: 2px 1px 0px;
+    padding: 1px 1px 1px;
 
     background: rgba(145, 217, 248, 0.676);
 
 }
 
-.our-team .pic{
+.our-team .pic {
 
-    background:rgb(246, 180, 180);
+    background: rgb(246, 180, 180);
 
     padding: 10px;
 
@@ -200,15 +217,15 @@ text-align: center;--> */
 
 }
 
-.our-team:hover .pic{
+.our-team:hover .pic {
 
-  background: #000000;
+    background: #000000;
 
     border-radius: 50%;
 
 }
 
-.pic img{
+.pic img {
 
     width: 100%;
 
@@ -218,7 +235,7 @@ text-align: center;--> */
 
 }
 
-.our-team .title{
+.our-team .title {
 
     font-weight: 600;
 
@@ -234,9 +251,9 @@ text-align: center;--> */
 
 }
 
-.our-team .post{
+.our-team .post {
 
-    color:#060808;
+    color: #060808;
 
     text-transform: capitalize;
 
@@ -247,7 +264,8 @@ text-align: center;--> */
     margin-bottom: 15px;
 
 }
-.our-team .social{
+
+.our-team .social {
 
     padding: 0;
 
@@ -257,7 +275,7 @@ text-align: center;--> */
 
 }
 
-.our-team .social li{
+.our-team .social li {
 
     display: inline-block;
 
@@ -265,7 +283,7 @@ text-align: center;--> */
 
 }
 
-.our-team .social li a{
+.our-team .social li a {
 
     border-radius: 50%;
 
@@ -287,14 +305,15 @@ text-align: center;--> */
 
 }
 
-.our-team:hover .social li a{
+.our-team:hover .social li a {
 
     background: #17bebb;
 
     color: #fff;
 
 }
-.our-team:hover .pic{
+
+.our-team:hover .pic {
 
     background: #17bebb;
 
@@ -302,18 +321,20 @@ text-align: center;--> */
 
 }
 
-.our-team:hover .social li a{
+.our-team:hover .social li a {
 
     background: #17bebb;
 
     color: #fff;
 
 }
-.carousel-inner{
+
+.carousel-inner {
     margin-bottom: 3px;
     margin-top: 1px;
-    
+
 }
+
 .para3 {
     padding-top: 2%;
     text-align: center;
@@ -325,6 +346,7 @@ text-align: center;--> */
     letter-spacing: 0px;
     text-align: center;
 }
+
 .para4 {
     padding-top: 2%;
     text-align: center;
@@ -337,16 +359,16 @@ text-align: center;--> */
     text-align: center;
 }
 
-  
-  /* Clear floats after image containers */
- 
-  .bold1{
+
+/* Clear floats after image containers */
+
+.bold1 {
     font-size: 29px;
     font-weight: 700;
     line-height: 35px;
     letter-spacing: 2px;
-  }
-  body{
+}
+
+body {
     background-color: rgb(207, 222, 235);
-  }
- 
+}
